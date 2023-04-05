@@ -1,1 +1,1 @@
-# TalkGPT Amu the Emu Bird
+# TalkGPT by Amu the Emu Bird
